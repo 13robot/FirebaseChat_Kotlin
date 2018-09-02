@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "112555565895",
+    "firebase_url": "https://chatme-c2223.firebaseio.com",
+    "project_id": "chatme-c2223",
+    "storage_bucket": "chatme-c2223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112555565895:android:54319a8c2e69e4ba",
+        "android_client_info": {
+          "package_name": "com.robo.chatme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112555565895-hag3m94sdii150kf3a2am335ip6cih8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6nuIvzAKy9Rb0UGKvXSC0yMlAIy85yAM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
